@@ -18,8 +18,8 @@ const WhyChoose = () => {
     }
   }, []);
   const companyName = "Align Innovations";
-  const phoneNumber = "+1973XXXXXXX";
-  const address = "Sydney, Australia"; // Replace with actual address
+  const phoneNumber = "+61399997354";
+  const address = "470 St Kilda Rd, Melbourne VIC 3004, Australia"; // Replace with actual address
   const email = "info@aligninnovations.com.au"; // Replace with actual email
   // Phone Number Link based on device
   const getPhoneLink = () => {

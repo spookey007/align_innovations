@@ -28,7 +28,7 @@ const MobileHeader = () => {
     }
   }, []);
 
-  const phoneNumber = "+1973XXXXXXX";
+  const phoneNumber = "+61399997354";
   const getPhoneLink = () => {
     if (device === "ios") {
       return `facetime:${phoneNumber}`; // FaceTime on iOS
@@ -63,8 +63,8 @@ const MobileHeader = () => {
       {/* Phone - Blue */}
       <div className="flex items-center justify-center bg-blue-800 text-white px-4 py-2 w-full md:w-1/2 text-sm md:text-base">
         <i className="fas fa-phone-alt text-white text-sm md:text-lg mr-1"></i>
-        <a href="tel:+1973XXXXXXX" className="font-bold text-white">
-          (973) XXX-XXX
+        <a href="tel:+61399997354" className="font-bold text-white">
+          61399997354
         </a>
       </div>
     </div>

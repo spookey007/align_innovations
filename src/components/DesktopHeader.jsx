@@ -27,28 +27,28 @@ const DesktopHeader = () => {
       emailApp = { name: "Apple Mail", url: "mailto:ken@aligninnovations.com.au" };
       addressApp = {
         name: "Apple Maps",
-        url: "maps://maps.apple.com/?q=Sydney, Australia",
+        url: "maps://maps.apple.com/?q=470 St Kilda Rd, Melbourne VIC 3004, Australia",
       };
       phoneApp = { name: "FaceTime", url: "facetime:+1973XXXXXXX" };
     } else if (/android/.test(userAgent)) {
       emailApp = { name: "Gmail", url: "mailto:ken@aligninnovations.com.au" };
       addressApp = {
         name: "Google Maps",
-        url: "geo:0,0?q=Sydney, Australia",
+        url: "geo:0,0?q=470 St Kilda Rd, Melbourne VIC 3004, Australia",
       };
       phoneApp = { name: "WhatsApp", url: "https://wa.me/1973XXXXXXX" };
     } else if (/mac/.test(userAgent)) {
       emailApp = { name: "Apple Mail", url: "mailto:ken@aligninnovations.com.au" };
       addressApp = {
         name: "Apple Maps",
-        url: "https://maps.apple.com/?q=Sydney, Australia",
+        url: "https://maps.apple.com/?q=470 St Kilda Rd, Melbourne VIC 3004, Australia",
       };
       phoneApp = { name: "FaceTime", url: "facetime:+1973XXXXXXX" };
     } else if (/win/.test(userAgent)) {
       emailApp = { name: "Outlook", url: "mailto:ken@aligninnovations.com.au" };
       addressApp = {
         name: "Google Maps",
-        url: "https://www.google.com/maps?q=Sydney, Australia",
+        url: "https://www.google.com/maps?q=470 St Kilda Rd, Melbourne VIC 3004, Australia",
       };
       phoneApp = { name: "Skype", url: "skype:+1973XXXXXXX?call" };
     }
@@ -90,16 +90,16 @@ const DesktopHeader = () => {
               rel="noopener noreferrer"
               className="text-sm md:text-base font-bold text-white hover:text-yellow-400"
             >
-              Sydney, Australia
+              470 St Kilda Rd,Melbourne VIC 3004, Australia
             </a>
           ) : (
             <a
-              href="https://maps.app.goo.gl/sBFE17YvvgKtvYE76"
+              href="https://maps.app.goo.gl/NHFmUqd4YgPjcTp49"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm md:text-base font-bold text-white hover:text-yellow-400"
             >
-              Sydney, Australia
+              470 St Kilda Rd,Melbourne VIC 3004, Australia
             </a>
           )}
         </div>
