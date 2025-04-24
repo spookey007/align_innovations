@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Workplace Safety",
+    "icon": "FaHardHat",
+    "headingone": "Comprehensive Safety Assessments",
+    "headingonedetails": [
+      "Identify potential hazards and implement preventive measures.",
+      "Ensure compliance with Australian workplace safety standards."
+    ],
+    "headingtwo": "Employee Training & Risk Management",
+    "headingtwodetails": [
+      "Provide tailored training programs for workplace safety.",
+      "Develop risk mitigation strategies to prevent accidents."
+    ]
+  },
+  {
+    "name": "Legal Compliance",
+    "icon": "FaBalanceScale",
+    "headingone": "Regulatory Guidance & WHS Compliance",
+    "headingonedetails": [
+      "Expert support for businesses to meet Work Health & Safety (WHS) laws.",
+      "Ensure proper documentation and reporting to avoid legal issues."
+    ],
+    "headingtwo": "ISO Certification Assistance",
+    "headingtwodetails": [
+      "Help businesses achieve ISO 45001 (Health & Safety) certification.",
+      "Streamline processes for compliance with international standards."
+    ]
+  },
+  {
+    "name": "Risk Management",
+    "icon": "FaShieldAlt",
+    "headingone": "Safety Audits & Inspections",
+    "headingonedetails": [
+      "Conduct workplace audits to assess safety compliance.",
+      "Identify risks and recommend corrective actions."
+    ],
+    "headingtwo": "Emergency Response Planning",
+    "headingtwodetails": [
+      "Develop effective response plans for workplace emergencies.",
+      "Train employees on crisis management and incident handling."
+    ]
+  },
+  {
+    "name": "Environmental & Quality",
+    "icon": "FaGavel",
+    "headingone": "Environmental Compliance",
+    "headingonedetails": [
+      "Assist businesses in meeting environmental regulations.",
+      "Promote sustainability practices to reduce environmental impact."
+    ],
+    "headingtwo": "Quality & Safety Integration",
+    "headingtwodetails": [
+      "Ensure workplace safety aligns with quality management systems."
+    ]
+  }
+]
